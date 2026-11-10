@@ -136,3 +136,5 @@ jin.add_files('img')
 
 print(jin.folder)
 print(kim.folder)
+
+print(ja)
