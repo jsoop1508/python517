@@ -120,7 +120,7 @@ jin = Person() # 인스턴스 생성
 jin.name = '진' # 인스턴스를 생성한 뒤 속성 추가 
 
 kim = Person() 
-'''
+
 # 클래스 속성 
 class Person:
     folder = [] # 클래스 속성
@@ -138,3 +138,4 @@ print(jin.folder)
 print(kim.folder)
 
 print(ja)
+'''
